@@ -1,7 +1,6 @@
 ### Hi there 👋
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keunyeong)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keunyeong)](https://github.com/anuraghazra/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keunyeong&layout=compact)
 
 <h3 align="center">I'm work with</h3>
 
@@ -22,9 +21,7 @@
 
 <h3 align="center">My top languages</h3>
 
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keunyeong&layout=compact)
-</div>
+
 
 <h3 align="center"> Used Tools </h3>
 
