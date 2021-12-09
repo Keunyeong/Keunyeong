@@ -15,9 +15,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keunyeong&layout=compact)
 
-<h3>My development times</h3>
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=keunyeong&layout=compact)](https://github.com/keunyeong/github-readme-stats)
 <!--
 **Keunyeong/Keunyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
