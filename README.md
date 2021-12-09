@@ -1,7 +1,5 @@
 ### Hi I'm Keunyeong LEE 👋
 
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keunyeong)](https://github.com/anuraghazra/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keunyeong&layout=compact)
-
 <h3 align="center">I'm work with</h3>
 
 <p align="center">
@@ -27,6 +25,8 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </p>
+
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keunyeong)](https://github.com/anuraghazra/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keunyeong&layout=compact)
 
 <!--
 **Keunyeong/Keunyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
