@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keunyeong)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-
-<h3>I'm work with</h3>
+<h3 align="center">I'm work with</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -20,9 +20,11 @@
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 </p>
 
-<h3>My top languages</h3>
+<h3 align="center">My top languages</h3>
 
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keunyeong&layout=compact)
+</div>
 
 <h3 align="center"> Used Tools </h3>
 
