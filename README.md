@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Keunyeong LEE 👋
 
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keunyeong)](https://github.com/anuraghazra/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keunyeong&layout=compact)
 
@@ -19,12 +19,7 @@
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 </p>
 
-<h3 align="center">My top languages</h3>
-
-
-
 <h3 align="center"> Used Tools </h3>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
