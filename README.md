@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 </p>
 
-<h3 align="center"> Usalbe Tools </h3>
+<h3 align="center"> Usable Tools </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
